@@ -5,6 +5,8 @@ import jwt
 import os
 from dotenv import load_dotenv
 
+
+#COMMENTING
 load_dotenv()
 
 app = FastAPI()
